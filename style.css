@@ -2,6 +2,10 @@ body {
   background-color:#FFFEFA;
 }
 
+.cont{
+  margin-left: 2%;
+}
+
 h6 {border: 3px solid red;
   text-align:center;
   font-size: 30px;
@@ -33,11 +37,8 @@ margin:10px;
 }
 
 
-.last-paragraph{
-  margin: 10px;
-  padding: 10px;
-} 
-p6 { 
+
+p { 
   border-style:dotted; 
   text-align:center;
    font-size:70px;
