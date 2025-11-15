@@ -1,0 +1,47 @@
+body {
+  background-color:#FFFEFA;
+}
+
+h6 {border: 3px solid red;
+  text-align:center;
+  font-size: 30px;
+  color:  #804000;
+  max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+h1 { border-style:dotted; 
+  border-color: red;
+  text-align:center;
+  font-size: 70px;
+  
+}
+h2 { color:#990000}
+.container {display: flex;
+ justify-content: center;
+    align-items: center;
+   margin: 20px;
+  padding: 20px;
+}
+
+h5 { 
+  border-style:solid;
+  text-align:center;
+  font-size:70px;
+margin:10px;
+}
+
+
+.last-paragraph{
+  margin: 10px;
+  padding: 10px;
+} 
+p6 { 
+  border-style:dotted; 
+  text-align:center;
+   font-size:70px;
+  display: block;
+  
+  
+ }
